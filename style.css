@@ -33,7 +33,7 @@ header {
 }
 
 #logo:hover {
-  opacity: 0.3;
+  opacity: 0.5;
 }
 
 #logo img {
@@ -62,7 +62,7 @@ header nav ul li:hover {
 /*HOME ************************/
 
 #home {
-  background: url(img/landing.jpg);
+  background: url(img/schworzawond.jpg);
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
@@ -115,7 +115,7 @@ header nav ul li:hover {
 
 #work{
   background-color: #f0f0f0;
-  height: 150%;
+  height: 350%;
 }
 
 #projects {
